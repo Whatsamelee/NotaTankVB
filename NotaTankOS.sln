@@ -1,5 +1,5 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
+Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Basic Express 2010
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NotaTank OS", "NotaTank OS\NotaTank OS.vbproj", "{9AC015DC-4287-4C94-A956-E6A47528991E}"
 EndProject
@@ -18,3 +18,5 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+
+# Win.
