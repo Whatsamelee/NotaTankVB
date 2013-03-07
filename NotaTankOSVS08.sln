@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Basic Express 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NotaTank OS", "NotaTank\NotaTank OS.vbproj", "{9AC015DC-4287-4C94-A956-E6A47528991E}"
+EndProject
+Global
+  GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC015DC-4287-4C94-A956-E6A47528991E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC015DC-4287-4C94-A956-E6A47528991E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC015DC-4287-4C94-A956-E6A47528991E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC015DC-4287-4C94-A956-E6A47528991E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+# All of the fixes and updates have been successfully backported. Support for VS2008, VS2005 and VS2012 coming soon. Nota, you owe Tank for getting this working, took lots of work! =]
+# A note that this may not work. We will certainly keep you up to date with fixes.
