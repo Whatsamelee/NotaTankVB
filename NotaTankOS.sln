@@ -19,4 +19,4 @@ Global
 	EndGlobalSection
 EndGlobal
 
-# Win.
+# All of the fixes and updates have been successfully backported. Support for VS2008, VS2005 and VS2012 coming soon. Nota, you owe Tank for getting this working, took lots of work! =]
