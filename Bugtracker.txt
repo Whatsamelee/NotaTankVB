@@ -1,5 +1,4 @@
 Knownbugs
 
-1. When you activate your thing, you will have to activate it upon each  login.
-2. When you try to save using notepad2, it will not work.
-3. When you click "my IP", it brings up your IPV6.
+1. When you activate your product, you will have to activate it upon each  login.
+2. When you click "my IP", it brings up your IPv6.
